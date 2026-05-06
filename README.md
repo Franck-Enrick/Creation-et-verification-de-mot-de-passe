@@ -100,8 +100,3 @@ password_manager.py
 | Pas de séquences | +5 |
 | Mot de passe unique | +10 (ou bloqué à 10 si commun) |
 
----
-
-## Licence
-
-Ce projet est sous licence **MIT**.
