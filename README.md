@@ -54,7 +54,6 @@ Un outil en ligne de commande pour **générer** des mots de passe sécurisés e
 ```
 password-manager/
 ├── password_manager.py   # Module principal
-├── tests.py              # 25+ tests unitaires (pytest)
 └── README.md             # Ce fichier
 ```
 
