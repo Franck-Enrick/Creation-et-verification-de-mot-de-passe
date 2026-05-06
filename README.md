@@ -49,32 +49,6 @@ Un outil en ligne de commande pour **générer** des mots de passe sécurisés e
 
 ---
 
-## Prérequis
-
-- Python **3.8** ou supérieur
-- Aucune dépendance externe (stdlib uniquement : `random`, `re`, `string`)
-
----
-
-## Installation & Lancement
-
-```bash
-git clone https://github.com/TON_USERNAME/password-manager.git
-cd password-manager
-python password_manager.py
-```
-
----
-
-## Lancer les tests
-
-```bash
-pip install pytest
-python -m pytest tests.py -v
-```
-
----
-
 ## Structure du projet
 
 ```
