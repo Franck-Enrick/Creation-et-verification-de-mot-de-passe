@@ -69,15 +69,15 @@ def analyser_mot_de_passe(mdp: str) -> dict:
 
     # Niveau qualitatif
     if score <= 20:
-        niveau = "Très faible 🔴"
+        niveau = "Très faible "
     elif score <= 40:
-        niveau = "Faible 🟠"
+        niveau = "Faible "
     elif score <= 60:
-        niveau = "Moyen 🟡"
+        niveau = "Moyen "
     elif score <= 80:
-        niveau = "Fort 🟢"
+        niveau = "Fort "
     else:
-        niveau = "Excellent 🔵"
+        niveau = "Excellent "
 
     # Suggestions
     suggestions = _generer_suggestions(criteres, mdp)
