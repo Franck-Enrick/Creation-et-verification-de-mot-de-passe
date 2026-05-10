@@ -1,4 +1,4 @@
-# 🔐 Générateur & Vérificateur de Mots de Passe
+#  Générateur & Vérificateur de Mots de Passe
 
 Un outil en ligne de commande pour **générer** des mots de passe sécurisés et **analyser** leur robustesse — écrit en Python pur, sans dépendances externes.
 
@@ -8,12 +8,12 @@ Un outil en ligne de commande pour **générer** des mots de passe sécurisés e
 
 | Fonctionnalité | Détail |
 |---|---|
-| 🎲 Génération aléatoire | Longueur et composition personnalisables |
-| 🧩 Phrase secrète | Style diceware, mémorisable et solide |
-| 📊 Score de sécurité | 0 → 100 pts avec barre de progression |
-| 🔍 Analyse des critères | 10 critères détaillés (longueur, diversité, séquences…) |
-| 💡 Conseils personnalisés | Suggestions concrètes pour améliorer le mot de passe |
-| 🚫 Détection des mots communs | Blacklist des mots de passe les plus courants |
+|  Génération aléatoire | Longueur et composition personnalisables |
+|  Phrase secrète | Style diceware, mémorisable et solide |
+|  Score de sécurité | 0 → 100 pts avec barre de progression |
+|  Analyse des critères | 10 critères détaillés (longueur, diversité, séquences…) |
+|  Conseils personnalisés | Suggestions concrètes pour améliorer le mot de passe |
+|  Détection des mots communs | Blacklist des mots de passe les plus courants |
 
 ---
 
@@ -21,7 +21,7 @@ Un outil en ligne de commande pour **générer** des mots de passe sécurisés e
 
 ```
 ═══════════════════════════════════════════════════════
-🔐  RAPPORT DE SÉCURITÉ
+  RAPPORT DE SÉCURITÉ
 ═══════════════════════════════════════════════════════
   Mot de passe : X9#kLm!vQz@2Bnp7
   Longueur     : 17 caractères
@@ -43,7 +43,7 @@ Un outil en ligne de commande pour **générer** des mots de passe sécurisés e
     ✅  Mot de passe unique
 ───────────────────────────────────────────────────────
   Conseils :
-    💡 Excellent mot de passe ! Pensez à le stocker dans un gestionnaire sécurisé.
+     Excellent mot de passe ! Pensez à le stocker dans un gestionnaire sécurisé.
 ═══════════════════════════════════════════════════════
 ```
 
